@@ -4,6 +4,9 @@
 [![](https://img.shields.io/badge/LinkedIn-%230077b5?style=flat-square&link=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fmihalovics-labs)](https://www.linkedin.com/company/mihalovics-labs)
 [![](https://img.shields.io/badge/Instagram-%23d62976?style=flat-square&link=https%3A%2F%2Fwww.instagram.com%2Fmihalovics_labs%2F)](https://www.instagram.com/mihalovics_labs/)
 [![](https://img.shields.io/badge/Facebook-%234267B2?style=flat-square&link=https%3A%2F%2Fwww.facebook.com%2Fmihalovics.labs%2F)](https://www.facebook.com/mihalovics.labs/)
+[![](https://img.shields.io/badge/TikTok-%23000000?style=flat-square&link=https%3A%2F%2Fwww.tiktok.com%2F%40mihalovics_labs)](https://www.tiktok.com/@mihalovics_labs)
+[![](https://img.shields.io/badge/Google%20Play-%2301875f?style=flat-square&link=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdev%3Fid%3D6186954400775884959)](https://play.google.com/store/apps/dev?id=6186954400775884959)
+[![](https://img.shields.io/badge/Meta%20Horizon-%230668e1?style=flat-square&link=https%3A%2F%2Fwww.meta.com%2Fexperiences%2Fprofile%2F29450542354631825%2F)](https://www.meta.com/experiences/profile/29450542354631825/)
 
 ---
 
